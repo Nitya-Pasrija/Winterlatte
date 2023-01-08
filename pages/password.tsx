@@ -15,7 +15,7 @@ const password = () => {
                     </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Lorem ipsum dolor sit amet?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">Why does it take a little longer than I anticipated to convert an image to code?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
@@ -28,7 +28,8 @@ const password = () => {
                     </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Consectetur adipisicing elit?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">How many images can I convert at once to code format?
+</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
@@ -41,7 +42,8 @@ const password = () => {
                         </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Neque eos, dignissimos provident reiciendis debitis?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">How can the result be obtained in code format?
+</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
@@ -54,7 +56,8 @@ const password = () => {
                     </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Repudiandae commodi perferendis et itaque?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">What is the largest image file size that is permitted?
+</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
@@ -67,7 +70,8 @@ const password = () => {
                     </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Similique fugiat cumque?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">Can you ensure that my files are secure? Everything is safe, right?
+</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
@@ -80,7 +84,8 @@ const password = () => {
                     </svg>
                 </div>
                 <div>
-                    <h4 className="text-xl font-bold text-gray-700">Impedit iusto vitae dolorum, nostrum fugit?</h4>
+                    <h4 className="text-xl font-bold text-[#0CCF89]">How many images can I convert at once to code format?
+</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
                     <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
                 </div>
